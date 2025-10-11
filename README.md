@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on the startup Aery. <br><br>I have an interest in Computer Vision and Machine Learning. <br><br>Fun Fact About Me: I mixed Monster (Ultra White) with pre-workout before
+Computer Vision <br><br>I have an interest in Computer Vision and Machine Learning. <br><br>Fun Fact About Me: I mixed Monster (Ultra White) with pre-workout before
 
 
 ## 🌐 Socials:
