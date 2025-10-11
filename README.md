@@ -19,8 +19,6 @@ I am currently working on the startup Aery. <br><br>I have an interest in Comput
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 -----
-
----
 [![](https://visitcount.itsvg.in/api?id=Joshua-Soteras&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
