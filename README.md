@@ -29,7 +29,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Joshua-Soteras)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/joshua-soteras/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)]([https://linkedin.com/in/your-profile](www.linkedin.com/in/joshua-soteras/)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300d4ff?style=for-the-badge&logo=x&logoColor=0d0d0d)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-%2300d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:soterasjoshua@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://soterasjoshua.dev)
