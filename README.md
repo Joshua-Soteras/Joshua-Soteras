@@ -8,36 +8,26 @@
 
 ---
 
-## `> whoami`
+## About Me 
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Hey, I'm Joshua — a developer who loves crafting clean   │
-│   solutions to complex problems. Passionate about AI/ML,   │
-│   full-stack development, and building tools that matter.  │
-│                                                             │
-│   When I'm not coding, I'm probably deep in a rabbit hole. │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I drink loads of caffeine. Fiend for caffeine. 
 
 ---
 
-## `> ./connect.sh`
+## Contanct
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Joshua-Soteras)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/joshua-soteras/)
 [![Email](https://img.shields.io/badge/Email-%2300d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:soterasjoshua@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://soterasjoshua.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://soteras.dev)
 
 </div>
 
 ---
 
-## `> ls languages/`
+## Languages
 
 <div align="center">
 
@@ -54,7 +44,7 @@
 
 ---
 
-## `> ls frameworks/ tools/`
+## Frameworks + Tools 
 
 <div align="center">
 
@@ -70,7 +60,7 @@
 
 ---
 
-## `> cat stats.json`
+## Stats
 
 <div align="center">
 
