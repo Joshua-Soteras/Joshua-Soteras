@@ -16,10 +16,10 @@ I drink loads of caffeine. Fiend for caffeine.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=131862)](https://github.com/Joshua-Soteras)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/joshua-soteras/)
-[![Email](https://img.shields.io/badge/Email-%2300d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:soterasjoshua@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://soteras.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%230B0E14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joshua-Soteras)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2316213E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-soteras/)
+[![Email](https://img.shields.io/badge/Email-%230F3460?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soterasjoshua@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23533483?style=for-the-badge&logo=vercel&logoColor=white)](https://soteras.dev)
 
 </div>
 
