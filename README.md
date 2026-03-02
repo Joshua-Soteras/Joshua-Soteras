@@ -1,24 +1,95 @@
-# About Me:
-Computer Vision <br><br>I have an interest in Computer Vision and Machine Learning. <br><br>Fun Fact About Me: I mixed Monster (Ultra White) with pre-workout before
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00d4ff&height=200&section=header&text=Joshua%20Soteras&fontSize=55&fontColor=00d4ff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16&descColor=8892b0" />
 
-##Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshua-soteras/) [![soteras.dev](https://soteras.dev/) [![email](soterasjoshua@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+%26+AI+Enthusiast;Always+building+something+new...)](https://git.io/typing-svg)
 
+</div>
 
+---
 
-## Languages 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+## `> whoami`
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Hey, I'm Joshua — a developer who loves crafting clean   │
+│   solutions to complex problems. Passionate about AI/ML,   │
+│   full-stack development, and building tools that matter.  │
+│                                                             │
+│   When I'm not coding, I'm probably deep in a rabbit hole. │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Joshua-Soteras&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Soteras&theme=noctis_minimus&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## `> ./connect.sh`
 
------
-[![](https://visitcount.itsvg.in/api?id=Joshua-Soteras&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Joshua-Soteras)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300d4ff?style=for-the-badge&logo=x&logoColor=0d0d0d)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-%2300d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://your-portfolio.com)
+
+</div>
+
+---
+
+## `> ls languages/`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=00d4ff)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d0d0d?style=for-the-badge&logo=kotlin&logoColor=00d4ff)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00d4ff)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=00d4ff)
+
+</div>
+
+---
+
+## `> ls frameworks/ tools/`
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00d4ff)
+![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=00d4ff)
+![Angular](https://img.shields.io/badge/Angular-0d0d0d?style=for-the-badge&logo=angular&logoColor=00d4ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=00d4ff)
+
+</div>
+
+---
+
+## `> cat stats.json`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshua-Soteras&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&border_color=0f3460&hide_border=false&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Soteras&layout=compact&theme=transparent&title_color=00d4ff&text_color=8892b0&border_color=0f3460&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joshua-Soteras&theme=transparent&border=0f3460&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0&stroke=0f3460)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f3460,100:0d0d0d&height=100&section=footer" />
+
+</div>
