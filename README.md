@@ -6,26 +6,23 @@
 
 </div>
 
----
 
 ## About Me 
 
 I drink loads of caffeine. Fiend for caffeine. 
 
----
 
 ## Contanct
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/Joshua-Soteras)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300d4ff?style=for-the-badge&logo=github&logoColor=131862)](https://github.com/Joshua-Soteras)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300d4ff?style=for-the-badge&logo=linkedin&logoColor=0d0d0d)](https://www.linkedin.com/in/joshua-soteras/)
 [![Email](https://img.shields.io/badge/Email-%2300d4ff?style=for-the-badge&logo=gmail&logoColor=0d0d0d)](mailto:soterasjoshua@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300d4ff?style=for-the-badge&logo=vercel&logoColor=0d0d0d)](https://soteras.dev)
 
 </div>
 
----
 
 ## Languages
 
@@ -42,7 +39,6 @@ I drink loads of caffeine. Fiend for caffeine.
 
 </div>
 
----
 
 ## Frameworks + Tools 
 
@@ -58,7 +54,6 @@ I drink loads of caffeine. Fiend for caffeine.
 
 </div>
 
----
 
 ## Stats
 
@@ -75,7 +70,6 @@ I drink loads of caffeine. Fiend for caffeine.
 
 </div>
 
----
 
 <div align="center">
 
