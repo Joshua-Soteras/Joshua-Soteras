@@ -3,7 +3,7 @@ Computer Vision <br><br>I have an interest in Computer Vision and Machine Learni
 
 
 ##Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshua-soteras/) [![soteras.dev](https://soteras.dev) [![email](soterasjoshua@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshua-soteras/) [![soteras.dev](https://soteras.dev/) [![email](soterasjoshua@gmail.com) 
 
 
 
