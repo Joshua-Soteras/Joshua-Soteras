@@ -50,23 +50,3 @@ I drink loads of caffeine. Fiend for caffeine.
 
 </div>
 
-## Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshua-Soteras&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=533483&text_color=8892b0&border_color=16213E&hide_border=false&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Soteras&layout=compact&theme=transparent&title_color=00d4ff&text_color=8892b0&border_color=16213E&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Joshua-Soteras&theme=transparent&border=16213E&ring=533483&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0&stroke=16213E)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,50:16213E,100:0B0E14&height=100&section=footer" />
-
-</div>
