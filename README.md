@@ -7,7 +7,7 @@
 </div>
 
 ## About Me 
-
+AI and Computer Vision Engineer 
 I drink loads of caffeine. Fiend for caffeine. 
 
 ## Contact
